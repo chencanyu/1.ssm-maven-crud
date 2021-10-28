@@ -22,6 +22,7 @@ public class Department {
     /**
      * hhhhh
      * hhhhhhh
+     * test hot-fix
      */
     public Department() {
     }
