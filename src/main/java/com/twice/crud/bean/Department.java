@@ -19,6 +19,9 @@ public class Department {
      */
     private String deptName;
 
+    /**
+     * hhhhh
+     */
     public Department() {
     }
 
